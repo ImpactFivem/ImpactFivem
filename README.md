@@ -23,7 +23,7 @@ Collaborating and sharing knowledge with:
   <img src="https://github.com/rggamenlYT.png" width="50" title="rggamenlYT" style="border-radius:50%; border: 2px solid #5865F2;">
 </a>
 
-**[rggamenlYT](https://github.com/rggamenlYT)** - Lua Developer & Infrastructure Peer
+**[rggamenlYT](https://github.com/rggamenlYT)** - FiveM Developer | Lua, Java & JSON Specialist
 
 ---
 
@@ -32,7 +32,7 @@ Collaborating and sharing knowledge with:
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![CloudPanel](https://img.shields.io/badge/CloudPanel-00ADEF?style=for-the-badge&logo=cloudpanel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
