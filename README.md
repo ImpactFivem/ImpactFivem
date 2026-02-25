@@ -30,6 +30,6 @@ Ik sta altijd open voor technische discussies of samenwerkingen!
 
 ### 📊 Mijn GitHub Statistieken
 
-![ImpactFivem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![ImpactFivem's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight)
 
-![Meest gebruikte talen](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpactFivem&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImpactFivem&layout=compact&theme=tokyonight)
