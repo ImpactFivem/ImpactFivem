@@ -1,41 +1,39 @@
-# 👋 Hallo, ik ben ImpactFivem
+# 👋 Hi, I'm ImpactFivem
 
-### 🚀 Waar ik momenteel aan werk
-Ik ben gepassioneerd door self-hosting en cloud-infrastructuur. Op dit moment focus ik me op:
-- 🏠 Het beheren en optimaliseren van mijn **Proxmox** homelab omgeving.
-- 🌐 Het beveiligen en versnellen van webapplicaties via **Cloudflare**.
-- 🛠️ Server management en deployment automatisering met **CloudPanel**.
-
----
-
-### 🛠️ Mijn Tech Stack & Tools
-
-| Categorie | Tools |
-| :--- | :--- |
-| **Virtualisatie** | Proxmox VE, LXC, Docker |
-| **Networking** | Cloudflare (DNS, Tunnel, WAF), Traefik |
-| **Server Control** | CloudPanel, SSH, Bash scripting |
-| **Hosting** | Self-hosted omgevingen & VPS management |
+### 🛡️ Hardware & Infrastructure
+I bridge the gap between hardware hacking and cloud management. My home lab and production environments are powered by:
+- **Virtualization:** Managing dedicated nodes and LXC containers on **Proxmox**.
+- **Network & Security:** Leveraging **Cloudflare** for WAF, DNS management, and secure tunneling.
+- **Server Management:** Deploying and optimizing web environments using **CloudPanel**.
 
 ---
 
-### 📫 Hoe je mij kunt bereiken
-Ik sta altijd open voor technische discussies of samenwerkingen!
-
-- 📧 **E-mail:** [WIP]
-- 💼 **LinkedIn:** [WIP]
-- 🐦 **Twitter/X:** [WIP]
+### 🐬 Flipper Zero & Security Research
+I'm active in the portable security community, focusing on:
+- **Custom Firmwares:** Working with Momentum, Unleashed, and Quantum builds.
+- **RF Auditing:** Enhancing Sub-GHz protocols and infrared detection tools.
+- **Pen-testing:** Researching Evil Portals and anti-surveillance hardware.
 
 ---
 
-### 📊 Mijn GitHub Statistieken
+### 🛠️ Tech Stack & Skills
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=proxmox&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![CloudPanel](https://img.shields.io/badge/CloudPanel-00ADEF?style=for-the-badge&logo=cloudpanel&logoColor=white)
 
-![ImpactFivem's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImpactFivem&layout=compact&theme=tokyonight)
+### 📊 GitHub Statistics
+*(Compact layout to prevent text overflow)*
 
-# 📊 GitHub Stats
+![ImpactFivem's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight&count_private=true)
 
-![Stats Card](https://github-readme-stats-sigma-five.vercel.app/api?username=rggamenlYT&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImpactFivem&layout=compact&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rggamenlYT&layout=compact&theme=tokyonight)
+---
+
+### 📂 Internal Projects
+- **Kabouter Suite:** Private collection of Decrypting, Cleaning, and Dumping tools (JS/Python/Lua).
+- **HomeLab Configs:** Automated deployment scripts for Proxmox environments.
