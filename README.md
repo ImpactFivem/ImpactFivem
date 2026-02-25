@@ -16,14 +16,14 @@ Active in the portable security community, focusing on:
 
 ---
 
-### 🤝 GitHub Buddies
-Collaborating and sharing knowledge with:
+### 🤝 GitHub Buddy & Expert
+Collaborating with an industry expert:
 
 <a href="https://github.com/rggamenlYT">
-  <img src="https://github.com/rggamenlYT.png" width="50" title="rggamenlYT" style="border-radius:50%; border: 2px solid #5865F2;">
+  <img src="https://github.com/rggamenlYT.png" width="60" title="rggamenlYT - The Expert" style="border-radius:50%; border: 3px solid #5865F2; padding: 2px;">
 </a>
 
-**[rggamenlYT](https://github.com/rggamenlYT)** - FiveM Developer | Lua, Java & JSON Specialist
+**[rggamenlYT](https://github.com/rggamenlYT)** **FiveM & Backend Expert** | Specialist in **Lua, Java, JSON** and Advanced Scripting.
 
 ---
 
