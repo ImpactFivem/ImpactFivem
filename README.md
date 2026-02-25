@@ -33,3 +33,7 @@ Ik sta altijd open voor technische discussies of samenwerkingen!
 ![ImpactFivem's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ImpactFivem&layout=compact&theme=tokyonight)
+
+![rggamenlYT's Stats](https://github-readme-stats.vercel.app/api?username=rggamenlYT&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rggamenlYT&layout=compact&theme=tokyonight)
