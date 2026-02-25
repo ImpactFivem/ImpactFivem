@@ -39,4 +39,4 @@ Collaborating with an industry expert:
 ### 📊 GitHub Statistics
 ![ImpactFivem's Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImpactFivem&layout=compact&theme=tokyonight&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=ImpactFivem&show_icons=true&theme=tokyonight)
